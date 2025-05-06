@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name=" Automation Test Suite">
+	<test name=" Automation Test">
+		<groups>
+			<run>
+				<include name="smoke.*" />
+			</run>
+		</groups>
+
+		<classes>
+
+			<class name="com.ui.tests.LoginTest4" />
+	
+		</classes>
+	</test>
+</suite>
+<!--<methods>
+<include name="changetherole"></include>
+</methods> 
+		</class> -->
+
+
+<!--
+Suite -->  

@@ -1,0 +1,13 @@
+{
+  "environment": {
+    "Dev": {
+      "url": "http://www.automationpractice.pl/"
+    },
+    "QA": {
+      "url": "http://www.automationpractice.pl/"
+    },
+    "LIVE": {
+      "url": "http://www.automationpractice.pl/"
+    }
+  }
+}
